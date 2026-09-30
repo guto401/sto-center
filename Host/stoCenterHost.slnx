@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/stoCenter.Application/stoCenter.Application.csproj" />
+    <Project Path="src/stoCenter.Domain/stoCenter.Domain.csproj" />
+    <Project Path="src/stoCenter.Infrastructure/stoCenter.Infrastructure.csproj" />
+    <Project Path="src/stoCenter.Server/stoCenter.Server.csproj" />
+  </Folder>
 </Solution>
